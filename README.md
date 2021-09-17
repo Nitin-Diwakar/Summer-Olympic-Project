@@ -13,4 +13,7 @@ These are the following question which we were asked to fetch it from the data:-
 <li>In which year India won first Gold Medal in Summer Olympics?</li>
 <li>Which event is most popular in terms on number of players? (Top 5)</li>
 <li>Which sport is having most female Gold Medalists? (Top 5)</li>
-  <ol>
+  </ol>
+<hr>
+ <em>Feel free to ask anything </em>
+ https://www.linkedin.com/in/nitin-diwakar-231495140/
